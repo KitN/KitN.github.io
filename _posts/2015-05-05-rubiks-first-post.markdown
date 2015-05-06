@@ -7,6 +7,6 @@ categories: java
 
 I've [uploaded the code][rubik2] that I wrote for a recent Algorithms class to solve a 2x2 Rubik's cube to GitHub.
 
-![Homer Solving Cubes]({{ site.url }}/assets/homer.gif)
+![Homer Solving Cubes]({{ site.url }}/assets/2x2.png)
 
 [rubik2]:https://github.com/KitN/rubiks-two-two
